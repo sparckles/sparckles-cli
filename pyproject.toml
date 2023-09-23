@@ -6,7 +6,7 @@ authors = ["Sanskar Jethi <sansyrox@gmail.com>"]
 license = "BSD-2.0"
 readme = "README.md"
 packages = [
-    { include = "sparckles", from = "src" },
+    { include = "src" },
 ]
 
 [tool.poetry.dependencies]
