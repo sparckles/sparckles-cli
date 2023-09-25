@@ -12,6 +12,8 @@ packages = [
 [tool.poetry.dependencies]
 python = "^3.10"
 click = "^8.1.7"
+InquirerPy = "^0.3.4"
+requests = "^2.26.0"
 
 
 [build-system]
