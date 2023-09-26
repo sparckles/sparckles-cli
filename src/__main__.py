@@ -2,7 +2,7 @@ import click
 import requests
 from InquirerPy import prompt
 
-SERVER_URL = 'http://localhost:5000'
+SERVER_URL = 'https://api.sparckles.cloud/deploy'
 
 def ask_for_options():
     questions = [
